@@ -1,16 +1,19 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "unofficial google voice api"
         ],
         "platforms": [
-            "insert platforms"
+            "sd card", "armlinux", "raspberry pi"
         ],
         "toolkits": [
-            "insert toolkits"
+            "openFrameworks"
         ]
     },
     "themes": [
-        "insert themes"
+        "digitalart",
+        "struggle",
+        "new media",
+        "reflections"
     ]
 }
